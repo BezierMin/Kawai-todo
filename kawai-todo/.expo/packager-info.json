@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 30120,
+  "expoServerNgrokUrl": "https://p3-szy.anonymous.kawai-todo.exp.direct",
+  "packagerNgrokUrl": "https://packager.p3-szy.anonymous.kawai-todo.exp.direct",
+  "ngrokPid": 14292,
   "webpackServerPort": null
 }
